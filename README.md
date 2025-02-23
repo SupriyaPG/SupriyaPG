@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a suitable job.
 - 📫 How to reach me mail me on supriyapg369@gmail.com
 - 😄 Pronouns: Supriya
-- ⚡ Fun fact: 
+
 
 <!---
 SupriyaPG/SupriyaPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
